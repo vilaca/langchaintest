@@ -1,0 +1,4 @@
+azure-core
+google-search-results
+langchain
+openai
